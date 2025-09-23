@@ -1,5 +1,5 @@
-****HealthcareAppointment**
-**
+****HealthcareAppointment****
+
 HealthcareAppointment is a Spring Boot + MySQL backend application for managing hospital appointments.
 It allows you to add patients, doctors, and book appointments via REST APIs.
 Swagger UI is included for easy API testing and documentation.
